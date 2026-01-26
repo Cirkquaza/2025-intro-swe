@@ -5,11 +5,7 @@
 
 ## January 26, 2026 (7 projects)
 
-### 1. PC Builder
-* **Team:** PC Builder - Stipe Barišić & Luka Ćirković
-* **Folder:** `1950-stipebarisic-lukacirkovic/`
-* **Status:** In Progress
-* **Description:** Upisivanje vaseg budžeta i sastavljanje najboljeg racunara za taj budžet.
+
 
 ### 2. Promet aplikacija
 * **Team:** Paradižot - Karlo Ćurčija & Ela Kević & Lucija Tomić & Jere Vitaljić
@@ -92,6 +88,12 @@
 * **Folder:** `404-atezak-tvisic/`
 * **Status:** In Progress
 * **Description:** Aplikacija za djecu od 6 do 12 s diskalkulijom koja kroz igru razvija matematičke i kognitivne vještine
+
+### 9. PC Builder
+* **Team:** PC Builder - Stipe Barišić & Luka Ćirković
+* **Folder:** `1950-stipebarisic-lukacirkovic/`
+* **Status:** In Progress
+* **Description:** Upisivanje vaseg budžeta i sastavljanje najboljeg racunara za taj budžet.
 
 
 ---
